@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to right, #fc63a7, #dd1264);
+  height: 100vh;
+}
